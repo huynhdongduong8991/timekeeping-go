@@ -2,7 +2,7 @@
 # Documentation: Attendance Management System
 This document outlines the architecture, deployment instructions, API details, and data schema for the attendance management system.
 
-Smart contract repository: [github.com/....](https://github.com/huynhdongduong8991/timekeeping-smartcontract)
+[Smart contract repository](https://github.com/huynhdongduong8991/timekeeping-smartcontract)
 
 ## Solution architecture
 The system follows a Model-View-Controller (MVC) architecture on the backend.
